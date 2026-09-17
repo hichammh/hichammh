@@ -16,7 +16,7 @@
 
 ### 🧑‍💻 About me
 
-- 💼 ** Software Engineer — Payment
+- 💼 **Software Engineer —> Payment
 - 🏅 **Microsoft Certified Solution Developer (MCSD)**
 ---
 
