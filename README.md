@@ -125,7 +125,6 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![AWS SNS](https://img.shields.io/badge/AWS_SNS-E7157B?style=for-the-badge&logo=amazonsimplequeueservice&logoColor=white)
 ![AWS SQS](https://img.shields.io/badge/AWS_SQS-E7157B?style=for-the-badge&logo=amazonsimplequeueservice&logoColor=white)
-![EventBridge](https://img.shields.io/badge/EventBridge-E7157B?style=for-the-badge&logo=amazoneventbridge&logoColor=white)
 
 **Observability**
 
