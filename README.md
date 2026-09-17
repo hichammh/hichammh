@@ -6,7 +6,7 @@
   <a href="mailto:hichamelmzah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.credly.com/">
+  <a href="[https://www.credly.com/](https://www.credly.com/users/el-mzah-hicham/badges/credly)">
     <img src="https://img.shields.io/badge/MCSD_Certified-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="MCSD"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=hichammh&style=for-the-badge&color=0A66C2" alt="Profile views"/>
