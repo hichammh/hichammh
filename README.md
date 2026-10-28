@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <em>10+ years building enterprise software: monolith → microservices migrations, payment integrations & DevOps.</em>
+  <em>10+ years building enterprise software.</em>
 </p>
 
 <p align="center">
@@ -15,14 +15,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=hichammh&style=for-the-badge&color=0A66C2" alt="Profile views"/>
 </p>
-
----
-
-### 🧑‍💻 About me
-
-- 💼 **Software Engineer** — Payment
-- 💳 Integrated **payment methods**
-- 🏅 **Microsoft Certified Solution Developer (MCSD)**
 
 ---
 
